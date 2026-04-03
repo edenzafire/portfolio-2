@@ -59,7 +59,7 @@ firefox index.html
 ### 📬 Contato & Conexões
 GitHub: @edenzafire
 
-Email: zafiregomesdaniel@gmail.com
+Email: contatozafire@gmail.com
 
 Obsidian: Minha base de conhecimento completa é documentada via Markdown.
 
